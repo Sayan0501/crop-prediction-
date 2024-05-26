@@ -55,12 +55,17 @@ function Aboutus() {
             </div>
           </div>
           <div className="flex flex-col items-center mx-12 lg:mx-0 justify-center shadow-lg p-10 rounded-xl h-5/6">
-          <h1 className="text-3xl font-bold leading-none text-center text-green-700 my-5">
-          Our Commitment
+            <h1 className="text-3xl font-bold leading-none text-center text-green-700 my-5">
+              Our Commitment
             </h1>
             <div className="relative text-center">
               <p className="px-6 py-1">
-              We are dedicated to supporting the agricultural community by providing reliable and accessible tools. Our commitment extends beyond technology; we offer educational resources, personalized support, and continuous updates to ensure our users stay ahead in the ever-evolving field of agriculture. At CropPredict, we believe in the future of farming, driven by data and innovation.
+                We are dedicated to supporting the agricultural community by
+                providing reliable and accessible tools. Our commitment extends
+                beyond technology; we offer educational resources, personalized
+                support, and continuous updates to ensure our users stay ahead
+                in the ever-evolving field of agriculture. At CropPredict, we
+                believe in the future of farming, driven by data and innovation.
               </p>
             </div>
           </div>
